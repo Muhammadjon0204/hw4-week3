@@ -12,3 +12,4 @@ C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw2\obj\Debug\net9.0\refint\hw2.dll
 C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw2\obj\Debug\net9.0\hw2.pdb
 C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw2\obj\Debug\net9.0\hw2.genruntimeconfig.cache
 C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw2\obj\Debug\net9.0\ref\hw2.dll
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw2\obj\Debug\net9.0\hw2.sourcelink.json

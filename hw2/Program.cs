@@ -3,12 +3,10 @@ using hw2;
 System.Console.WriteLine();
 System.Console.WriteLine("================PhotoBook Manegment================");
 System.Console.WriteLine();
-PhotoBook photoBook=new PhotoBook();
 
-PhotoBook CustomPhotobook=new PhotoBook(24);
+PhotoTest photoTest=new PhotoTest();
+System.Console.WriteLine($"Standart photo book : {photoTest.photoBook1.GetNumPages()} pages");
+System.Console.WriteLine($"Custom photobook : {photoTest.photoBook2.GetNumPages()} pages");
+System.Console.WriteLine($"Big photobook : {photoTest.bigPhotoBook.GetNumPages()} pages");
 
-PhotoBook bigphotobook=new BigPhotoBook();
 
-System.Console.WriteLine($"Standart photobok pages count: {photoBook.GetNumPages()}");
-System.Console.WriteLine($"Custom photobok pages count: {CustomPhotobook.GetNumPages()}");
-System.Console.WriteLine($"Big photobok pages count: {bigphotobook.GetNumPages()}");
