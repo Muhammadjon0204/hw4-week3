@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw1\bin\Debug\net9.0\hw1.exe
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw1\bin\Debug\net9.0\hw1.deps.json
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw1\bin\Debug\net9.0\hw1.runtimeconfig.json
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw1\bin\Debug\net9.0\hw1.dll
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw1\bin\Debug\net9.0\hw1.pdb
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw1\obj\Debug\net9.0\hw1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw1\obj\Debug\net9.0\hw1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw1\obj\Debug\net9.0\hw1.AssemblyInfo.cs
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw1\obj\Debug\net9.0\hw1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw1\obj\Debug\net9.0\hw1.dll
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw1\obj\Debug\net9.0\refint\hw1.dll
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw1\obj\Debug\net9.0\hw1.pdb
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw1\obj\Debug\net9.0\hw1.genruntimeconfig.cache
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw1\obj\Debug\net9.0\ref\hw1.dll

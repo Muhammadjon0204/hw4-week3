@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw2\bin\Debug\net9.0\hw2.exe
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw2\bin\Debug\net9.0\hw2.deps.json
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw2\bin\Debug\net9.0\hw2.runtimeconfig.json
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw2\bin\Debug\net9.0\hw2.dll
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw2\bin\Debug\net9.0\hw2.pdb
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw2\obj\Debug\net9.0\hw2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw2\obj\Debug\net9.0\hw2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw2\obj\Debug\net9.0\hw2.AssemblyInfo.cs
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw2\obj\Debug\net9.0\hw2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw2\obj\Debug\net9.0\hw2.dll
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw2\obj\Debug\net9.0\refint\hw2.dll
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw2\obj\Debug\net9.0\hw2.pdb
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw2\obj\Debug\net9.0\hw2.genruntimeconfig.cache
+C:\Users\user\Desktop\CSHARP\week3\day4\hw\hw2\obj\Debug\net9.0\ref\hw2.dll
